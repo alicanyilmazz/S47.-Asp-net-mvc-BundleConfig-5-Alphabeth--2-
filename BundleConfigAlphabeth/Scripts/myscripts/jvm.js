@@ -1,0 +1,1 @@
+﻿console.log("jvm.js was runned.");

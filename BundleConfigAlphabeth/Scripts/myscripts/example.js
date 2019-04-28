@@ -1,0 +1,1 @@
+﻿console.log("example.js was runned.");

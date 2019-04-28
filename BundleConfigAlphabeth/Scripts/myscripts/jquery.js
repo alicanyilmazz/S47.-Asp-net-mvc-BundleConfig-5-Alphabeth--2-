@@ -1,0 +1,1 @@
+﻿console.log("jquery.js was runned.");
